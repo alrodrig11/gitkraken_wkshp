@@ -1,3 +1,4 @@
+
 # Gitkraken workshop
 A hands-on workshop to demonstrate Gitkraken as a GUI client for the Git version control system
 
